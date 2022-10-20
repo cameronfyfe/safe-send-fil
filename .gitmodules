@@ -1,0 +1,3 @@
+[submodule "extern/lotus-fvm-localnet"]
+	path = extern/lotus-fvm-localnet
+	url = https://github.com/jimpick/lotus-fvm-localnet.git
